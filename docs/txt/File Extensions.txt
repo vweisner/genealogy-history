@@ -1,0 +1,25 @@
+Documentation - File Extensions
+
+-JSON Format-
+Extension: *.json
+Purposes: Metadata
+
+-Markdown Format-
+Extension: *.md
+Purposes: Documentation/Metadata
+
+-Plain Text Format-
+Extension: *.txt
+Purposes: Documentation/Metadata
+
+-SVG Format-
+Extension: *.svg
+Purposes: Charts/Graphs/Maps/Visuals
+
+-XML Format-
+Extension: *.xml
+Purposes: Metadata
+
+-YAML Format-
+Extension: *.yml
+Purposes: Metadata

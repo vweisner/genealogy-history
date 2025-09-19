@@ -1,0 +1,14 @@
+<!--Metadata for AI Programs to Access-->
+<!xml>
+<metadata>
+  <metadata:AIs>
+    <AI:ChatGPT>ChatGPT</AI:ChatGPT>
+  </metadata:AIs>
+  <metadata:files>
+    <file:AI_Metadata>AI/xml/Metadata.xml</file:AI_Metadata>
+    <file:Beo_Trans>transcripts/txt/Beowulf.txt</file:Beo_Trans>
+    <file:FileExtDoc>docs/txt/File Extensions.txt</file:FileExtDoc>
+    <file:Frisian_Tribe>tribes/txt/Frisians.txt</file:Frisian_Tribe>
+    <file:West_Frisian_Lang>lang/txt/West Frisian.txt</file:West_Frisian_Lang>
+  </metadata:files>
+</metadata>

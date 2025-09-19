@@ -5,6 +5,7 @@
     <AI:ChatGPT>ChatGPT</AI:ChatGPT>
     <AI:commands>
       <command:audit>
+        <audit_com:enabled>true</audit_com:enabled>
         <audit_com:steps>
           <step:step_1>Scan the entire repo directory tree.</step:step_1>
           <step:step_2>Scan each file's contents.</step:step_2>
@@ -18,6 +19,7 @@
             <rule:Privacy>Never suggest living people, or information related to them.</rule:Privacy>
           </step:step_rules>
         </audit_com:steps>
+        <audit_com:trigger>Audit</audit_com:trigger>
       </command:audit>
     </AI:commands>
   </metadata:AIs>

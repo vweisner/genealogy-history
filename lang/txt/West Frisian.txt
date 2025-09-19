@@ -1,0 +1,31 @@
+Language Data - West Frisian
+
+-Dictionary Terms-
+as - Conjunction: *jabai [Proto-Germanic] | if [English] | ob [German]
+beam - Noun: *treu [Proto-West Germanic] | boom [Dutch] | tree [English]
+bear - Noun: bear [English]
+bearen - Noun: bears [English]
+berch - Noun: Berg [German] | berg [Afrikaans/Dutch] | mountain [English]
+blaze - Verb: to blow [English]
+dei - Noun: day [English] | Tag [German]
+
+-Language Details-
+Aliases: Frisian | West Lauwers Frisian
+Ethnic Group: West Frisians
+ISO 639-1 Code: fy
+ISO 639-2 Code: fry
+Language Family: Frisian Family
+Type: Indo-European->Germanic->West Germanic
+
+-Phonology-
+Diphthongs: oə (falling)
+Vowels: ə | o | u
+
+-Web Sources-
+https://en.wikipedia.org/wiki/Help:IPA/West_Frisian
+https://en.wikipedia.org/wiki/West_Frisian_language
+https://en.wikipedia.org/wiki/West_Frisian_phonology
+https://en.wiktionary.org/wiki/Appendix:Germanic_Swadesh_lists
+https://en.wiktionary.org/wiki/Appendix:West_Germanic_Swadesh_lists
+https://en.wiktionary.org/wiki/bear
+https://en.wiktionary.org/wiki/bearen

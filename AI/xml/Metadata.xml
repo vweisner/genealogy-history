@@ -3,6 +3,23 @@
 <metadata>
   <metadata:AIs>
     <AI:ChatGPT>ChatGPT</AI:ChatGPT>
+    <AI:commands>
+      <command:audit>
+        <audit_com:steps>
+          <step:step_1>Scan the entire repo directory tree.</step:step_1>
+          <step:step_2>Scan each file's contents.</step:step_2>
+          <step:step_3>Compare each file to see if the datasets are missing related datapoints in other files.</step:step_3>
+          <step:step_4>Look at what remains open in the entire project.</step:step_4>
+          <step:step_5>List the gaps that remain open in the project.</step:step_5>
+          <step:step_rules>
+            <rule:Datasets>Datasets can be the same, only if they are in different formats.</rule:Datasets>
+            <rule:Legal>Take all current legal considerations to mind.</rule:Legal>
+            <rule:Output>When outputing the gaps, give hints to where to look next.</rule:Output>
+            <rule:Privacy>Never suggest living people, or information related to them.</rule:Privacy>
+          </step:step_rules>
+        </audit_com:steps>
+      </command:audit>
+    </AI:commands>
   </metadata:AIs>
   <metadata:files>
     <file:AI_Metadata>AI/xml/Metadata.xml</file:AI_Metadata>

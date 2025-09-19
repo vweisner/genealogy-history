@@ -20,7 +20,7 @@
             <rule:Output>When outputing the gaps, give hints to where to look next.</rule:Output>
             <rule:Privacy>Never suggest living people, or information related to them.</rule:Privacy>
             <rule:Sizes>Sort the gaps and recommended fixes by largest to smallest.</rule:Sizes>
-            <rule:Transcriptions>There are transscriptions of documents, and they are to be untouched for their actual transcriptions.</rule:Transcriptions>
+            <rule:Transcriptions>There are transcriptions of documents, and they are to be untouched for their actual transcriptions.</rule:Transcriptions>
           </step:step_rules>
         </audit_com:steps>
         <audit_com:trigger>Audit</audit_com:trigger>

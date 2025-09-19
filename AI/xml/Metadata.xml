@@ -15,6 +15,7 @@
           <step:step_rules>
             <rule:Everything>Don't overlook every detail, every section of the project must be audited.</rule:Everything>
             <rule:Datasets>Datasets can be the same, only if they are in different formats.</rule:Datasets>
+            <rule:File_Names>All the file names in the repo only have limits for any GitHub repo file names.</rule:File_Names>
             <rule:Gaps>Focus more on the dataset gaps first, then everything else.</rule:Gaps>
             <rule:Legal>Take all current legal considerations to mind.</rule:Legal>
             <rule:Output>When outputing the gaps, give hints to where to look next.</rule:Output>
@@ -31,6 +32,10 @@
     <dataset:Frisian_Tribe>Tribal Data - Frisians</dataset:Frisian_Tribe>
     <dataset:West_Frisian_Lang>Language Data - Frisians</dataset:West_Frisian_lang>
   </metadata:datasets>
+  <metadata:docs>
+    <doc:Copying>docs/txt/MIT.txt</doc:Copying>
+    <doc:FileExtDoc>docs/txt/File Extensions.txt</doc:FileExtDoc>
+  </metadata:docs>
   <metadata:files>
     <file:AI_Metadata>AI/xml/Metadata.xml</file:AI_Metadata>
     <file:Beo_Trans>transcripts/txt/Beowulf.txt</file:Beo_Trans>
@@ -45,4 +50,7 @@
   <metadata:git_history>
     <history:first_commit>59aac771bb1218e363461670a41b4cac606caa4a</history:first_commit>
   </metadata:git_history>
+  <metadata:metadata>
+    <metadata:AI_Metadata>AI/xml/Metadata.xml</metadata:AI_Metadata>
+  </metadata:metadata>
 </metadata>

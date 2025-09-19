@@ -14,15 +14,21 @@
           <step:step_5>List the gaps that remain open in the project.</step:step_5>
           <step:step_rules>
             <rule:Datasets>Datasets can be the same, only if they are in different formats.</rule:Datasets>
+            <rule:Gaps>Focus more on the dataset gaps first, then everything else.</rule:Gaps>
             <rule:Legal>Take all current legal considerations to mind.</rule:Legal>
             <rule:Output>When outputing the gaps, give hints to where to look next.</rule:Output>
             <rule:Privacy>Never suggest living people, or information related to them.</rule:Privacy>
+            <rule:Sizes>Sort the gaps and recommended fixes by largest to smallest.</rule:Sizes>
           </step:step_rules>
         </audit_com:steps>
         <audit_com:trigger>Audit</audit_com:trigger>
       </command:audit>
     </AI:commands>
   </metadata:AIs>
+  <metadata:datasets>
+    <dataset:Frisian_Tribe>Tribal Data - Frisians</dataset:Frisian_Tribe>
+    <dataset:West_Frisian_Lang>Language Data - Frisians</dataset:West_Frisian_lang>
+  </metadata:datasets>
   <metadata:files>
     <file:AI_Metadata>AI/xml/Metadata.xml</file:AI_Metadata>
     <file:Beo_Trans>transcripts/txt/Beowulf.txt</file:Beo_Trans>
@@ -30,4 +36,10 @@
     <file:Frisian_Tribe>tribes/txt/Frisians.txt</file:Frisian_Tribe>
     <file:West_Frisian_Lang>lang/txt/West Frisian.txt</file:West_Frisian_Lang>
   </metadata:files>
+  <metadata:git_branches>
+    <branch:main>main</branch:main>
+  </metadata:git_branches>
+  <metadata:git_history>
+    <history:first_commit>59aac771bb1218e363461670a41b4cac606caa4a</history:first_commit>
+  </metadata:git_history>
 </metadata>

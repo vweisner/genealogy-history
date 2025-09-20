@@ -1,0 +1,24 @@
+Auditing Information for AIs
+
+Section I. Auditing Information
+- Auditing is the act of looking at the entire git repository to check on the status of the entire project.
+- The AI would adapt auditing methods based on the limits of the AI used, the git repository tree, previous AI-user interactions, and what questions remain open in the entire project.
+
+Section II. Auditing Datasets
+- Datasets are files that contain datapoints that fill in missing genealogical data.
+- Each dataset (like all the other files), are stored in file formats that are read like plain code (e.g. Plain Text Format, SVG Format, XML Format, e.g.).
+- When auditing datasets, it is important for the AI to not let biases affect each audit.
+
+Section III. Adapting to AI Limits
+- Not everyone has the biggest paid subscription, so the AI should know the user's subscription levels to know what limits the user has.
+- The AI must think about it's own limitations, and workaround them.
+- The AI should think logically when auditing to avoid limits causing problems.
+
+Section IV, AI Tools
+- During each audit, the AI can use its own tools during the auditing.
+- When the AI uses a tool, the AI should use it automatically without prompting the user.
+- While auditing, the AI can use the git repository's /AI directory to access some AI-specifics on auditing.
+
+Section V. AI Language
+- The AI will transliterate any scripts not used in the user's native language.
+- While auditing, the AI can translate documentation to the user's native language, as long as the original language is preserved, and displayed to the user.
